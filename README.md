@@ -1,4 +1,5 @@
 # 🤖 Agentic AI – E-commerce Customer Support Agent
+![Application Screenshot](app-screenshot.png)
 
 ## Project Overview
 
